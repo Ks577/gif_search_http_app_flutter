@@ -12,10 +12,10 @@ GIF Search App is a simple and lightweight application that allows users to sear
 
 # Used Packages
 
-http
-cached_network_image
-widget_and_text_animator
-loading_indicator
+- http
+- cached_network_image
+- widget_and_text_animator
+- loading_indicator
 
 # Preview
 
