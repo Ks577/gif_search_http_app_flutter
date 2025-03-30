@@ -1,16 +1,22 @@
-# search_gifs_http_flutter
+# Gif search app
 
-A new Flutter project.
+GIF Search App is a simple and lightweight application that allows users to search for GIFs by entering a keyword. Users can also view GIFs in full-screen mode.
 
-## Getting Started
+# Features
 
-This project is a starting point for a Flutter application.
+- Search for GIFs by keyword
+- Display GIF results in a grid layout
+- Tap on a GIF to view it in full-screen mode
+- Smooth animations and caching for better performance
+- Loading indicators for better feedback
 
-A few resources to get you started if this is your first Flutter project:
+# Used Packages
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+http
+cached_network_image
+widget_and_text_animator
+loading_indicator
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Preview
+
+![](assets/images/gifs.gif) 
