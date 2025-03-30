@@ -19,4 +19,6 @@ GIF Search App is a simple and lightweight application that allows users to sear
 
 # Preview
 
+![](assets/images/gif.gif) 
+
 
